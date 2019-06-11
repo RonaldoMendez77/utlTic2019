@@ -8,7 +8,8 @@
 	<!-- Archivo de enlace a la carpeta inicio -->
 </body>
 <script>
-	window.location="login/index.php"
+	//window.location="login/index.php"
+	window.location="inicio/index.php"
 </script>
 </html>
 
