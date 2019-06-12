@@ -58,6 +58,7 @@
 	<script src="../js/menu.js"></script>
 	<script src="../js/precarga.js"></script>
 	<script src="../js/salir.js"></script>
+	
 	<script src="../plugins/bootstrap/js/bootstrap.min.js"></script>
 	
 	<!-- alertify -->
